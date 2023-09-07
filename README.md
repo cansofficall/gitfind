@@ -2,4 +2,4 @@
 
 Çalıştırmak için
 
-python giftfind.py
+python gitfind.py
